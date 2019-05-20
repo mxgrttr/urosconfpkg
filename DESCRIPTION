@@ -1,0 +1,12 @@
+Package: urosconfpkg
+Title: What the Package Does (One Line, Title Case)
+Version: 0.1
+Authors@R: 
+    person(given = "Max",
+           family = "Gruetter",
+           role = c("aut", "cre"),
+           email = "max.gruetter@statistik.ji.zh.ch")
+Description: What the package does (one paragraph).
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
